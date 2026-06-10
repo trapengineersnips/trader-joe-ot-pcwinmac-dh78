@@ -1,4 +1,4 @@
-# 
+# Official trader joe trading bot extensions for Mac OS | Lightweight trader joe trading bot extensions for PC Windows. Featuring impermanent loss tracking and Web3 connectivity — optimized for maximum performance on every platform.
 
 
 
